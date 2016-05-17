@@ -1,0 +1,6 @@
+Versiones de Python 
+versiones 1.0 
+versiones 2.0
+versiones 3.0
+version 2.7.10 lanzada en el 2015
+version 3.4.3 lanzanda en el 2015
